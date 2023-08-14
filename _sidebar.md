@@ -1,5 +1,6 @@
 * 入门教程
   * [注册使用](register.md)
+  * [Token 费用](price.md)
 
 * 高阶使用
   * [Prompts 编写技巧](README.md)
