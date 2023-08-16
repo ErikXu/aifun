@@ -1,4 +1,4 @@
-# Token 费用
+# ChatGPT 费用计算
 
 ChatGPT API 是 OpenAI 提供的可以让我们调用 GPT 模型的接口，所以更准确的说法应该是 OpenAI API。
 
