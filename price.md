@@ -23,10 +23,10 @@ OpenAI ChatGPT API是收费的，不同模型（如 GPT-3.5、GPT-4.0 等）的�
 
 | 模型 | 输入 | 输出 |
 | ------- | ------- | ------- |
-| 8000 字上下文 | $0.03 / 1000 tokens | $0.06 / 1000tokens |
+| 8000 字上下文 | $0.03 / 1000 tokens | $0.06 / 1000 tokens |
 | 32000 字上下文 | $0.06 / 1000 tokens | $0.12 / 1000 tokens |
 
-可以看到 GPT-4 API 价格几乎是 GPT-3.5 API 价格的 20 倍。
+可以看到 GPT-4 API 价格几乎是 GPT-3.5 API 价格的 20-30 倍。
 
 ## 二、OpenAI ChatGPT API Token 计算方式
 
